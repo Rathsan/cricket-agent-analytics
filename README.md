@@ -7,7 +7,6 @@ A comprehensive cricket statistics application that combines web search, LLM-pow
 - **Smart Search**: Searches the web for comprehensive cricket statistics
 - **AI-Powered Analysis**: Uses LLMs to generate custom visualization code
 - **Interactive Charts**: Creates professional bar charts showing player performance
-- **Modern UI**: Clean Streamlit frontend with intuitive user experience
 - **Multi-Format Support**: Covers Test, ODI, and T20I cricket formats
 
 ## 🏗️ Architecture
@@ -142,17 +141,7 @@ The application supports local LLM models via LM Studio:
 3. Chart modifications in the LLM prompts
 4. UI improvements in `app.py`
 
-## 📝 License
 
-[Add your license here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
-## 📞 Support
-
-[Add support information here]
 
 ---
 
